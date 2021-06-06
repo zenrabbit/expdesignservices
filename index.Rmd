@@ -13,7 +13,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](./dds.jpg)
 
-We support design and analysis of environmental experiments. All work is done using GitHub, R, and other contemporary open sciences tools.
+We support design and analysis of environmental experiments. All work is done using GitHub, R, and other contemporary open sciences tools.  
+
+
+#### Portfolio  
+
+Work of key team analyst listed on [ORCID](https://orcid.org/0000-0002-4291-7023).  
+
 
 #### Contacts  
 
