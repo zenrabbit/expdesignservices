@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Mission  
 
-We support design and analysis of environmental experiments. All work is done using GitHub, R, and other contemporary open sciences tools. Our primary purpose is to promote open, reproducible open science and synthesis that informs decision making.  
+We support design and analysis of environmental experiments. All work is done using GitHub, R, and other contemporary open sciences tools. Our primary purpose is to promote open, reproducible useful science and synthesis that informs decision making.  
 
 
 #### Portfolio  
