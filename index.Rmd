@@ -11,9 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <br>  
 
-![](./dds.jpg)
+![](./dds5.jpg)
 
-We support design and analysis of environmental experiments. All work is done using GitHub, R, and other contemporary open sciences tools.  
+#### Mission  
+
+We support design and analysis of environmental experiments. All work is done using GitHub, R, and other contemporary open sciences tools. Our primary purpose is to promote open, reproducible open science and synthesis that informs decision making.  
 
 
 #### Portfolio  
@@ -23,4 +25,7 @@ Work of key team analyst listed on [ORCID](https://orcid.org/0000-0002-4291-7023
 
 #### Contacts  
 
-[email](mailto:contracts@expdesignservices.com)
+[Contracts email](mailto:contracts@expdesignservices.com)  
+
+
+[Analyst email](mailto:analyst@expdesignservices.com)
